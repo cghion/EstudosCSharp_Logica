@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Project_Exercicio_01",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Project_Exercicio_01\\Project_Exercicio_01.csproj",
+            "console": "integratedTerminal",
+            "launchConfigurationId": "TargetFramework=;Project_Exercicio_01"
+        }
+    ]
+}
