@@ -1,5 +1,20 @@
 <Solution>
   <Project Path="Project_Exercicio_01/Project_Exercicio_01.csproj" />
   <Project Path="Project_KantoNerd_01_50/Project_KantoNerd_01_50.csproj" />
+  <Project Path="Project_KantoNerd_01_50V2/Project_KantoNerd_01_50V2.csproj" />
+  <Project Path="Project_KantoNerd_03_50/Project_KantoNerd_03_50.csproj" />
   <Project Path="Project_KantoNerd_04_50/Project_KantoNerd_04_50.csproj" />
+  <Project Path="Project_KantoNerd_05_50/Project_KantoNerd_05_50.csproj" />
+  <Project Path="Project_KantoNerd_06_50/Project_KantoNerd_06_50.csproj" />
+  <Project Path="Project_KantoNerd_08_50/Project_KantoNerd_08_50.csproj" />
+  <Project Path="Project_KantoNerd_10_50/Project_KantoNerd_10_50.csproj" />
+  <Project Path="Project_KantoNerd_18_50/Project_KantoNerd_18_50.csproj" />
+  <Project Path="Project_KantoNerd_20_50/Project_KantoNerd_20_50.csproj" />
+  <Project Path="Project_KantoNerd_22_50/Project_KantoNerd_22_50.csproj" />
+  <Project Path="Project_KantoNerd_23_50/Project_KantoNerd_23_50.csproj" />
+  <Project Path="Project_KantoNerd_25_50/Project_KantoNerd_25_50.csproj" />
+  <Project Path="Project_KantoNerd_26_50/Project_KantoNerd_26_50.csproj" />
+  <Project Path="Project_KantoNerd_27_50/Project_KantoNerd_27_50.csproj" />
+  <Project Path="Project_KantoNerd_28_50/Project_KantoNerd_28_50.csproj" />
+  <Project Path="Project_KantoNerd_29_50/Project_KantoNerd_29_50.csproj" />
 </Solution>

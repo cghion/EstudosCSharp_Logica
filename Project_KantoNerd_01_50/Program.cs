@@ -237,6 +237,52 @@ class Program
         }
 
     }
+
+
+    static int ValidarEntrada(TipoDoParametro nomeDoParametro)
+{
+
+while (true)
+        {
+            Console.Write("Informe o lado 03 do triângulo: ");
+            entrada = Console.ReadLine();
+
+            if (string.IsNullOrWhiteSpace(entrada))
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Erro01: Entrada vazia ou nula. Não aperte apenas Enter. Não digite apenas aspas duplas ou simples.");
+                Console.ResetColor();
+                continue;
+            }
+            if (!int.TryParse(entrada, out lado03))
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Erro02: Digite apenas números inteiros.");
+                Console.ResetColor();
+                continue;
+            }
+            if (lado01 <= 0)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Erro03: O lado deve ser maior que zero. Não existe triângulo com lado negativo ou zero");
+                Console.ResetColor();
+                continue;
+            }
+            break; // Sai do loop do Lado 3 se tudo estiver correto
+        }
+
+
+    // passos que se repetem
+    return valorDoTipoDeRetorno;
+}
+
+     
+
+
+
+
+
+
 }
 /*O lado c é sempre o maior de todos.
         • Retângulo = c^2 = a^2 + b^2
